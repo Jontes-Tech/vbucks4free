@@ -20,4 +20,4 @@ window.open("https://www.bing.com/search?q=how+to+get+free+vbucks&form=QBLH&sp=-
 window.open("https://www.bing.com/search?q=free+facebook+hack&form=QBLH&sp=-1&pq=free+facebook+&sc=8-14&qs=n&sk=&cvid=2894D277FA234DEB901E40D398CE7BAC")
 window.open("https://www.bing.com/search?q=how+to+play+fortnite+on+my+PS1&form=QBLH&sp=-1&pq=how+to+play+fortnite+on+my+ps1&sc=3-30&qs=n&sk=&cvid=E276C5CE5FD74E61B154836EDCD56395")
 window.open("https://www.where-am-i.co/my-ip-location")
-window.open("https://vbucks4free.ml")
+window.open("https://vbucks4free.pages.dev")
